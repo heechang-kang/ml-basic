@@ -1,6 +1,6 @@
 import numpy 
 import matplotlib.pyplot as plt
-import pandas
+import pandas as pd
 
 # Import the dataset
 dataset = pd.read_csv('Data.csv')

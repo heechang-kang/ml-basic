@@ -28,7 +28,7 @@
 | 5. Association Rule         |                                |
 |                             | 5-1. Apriori                   |
 |                             | 5-2. Eclat                     |
-| 6. Reinforcement            |                                |
+| 6. Reinforcement            |                                |    
 | 7. NLP                      |                                |
 | 8. Deep Learning            |                                |
 | 9. Dimensionality Reduction |                                |
